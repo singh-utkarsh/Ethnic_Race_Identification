@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 20 19:39:30 2018
-
-@author: Akshay
-"""
 
 # data generator
 import os 
