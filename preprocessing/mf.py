@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 20 14:16:52 2018
 
-@author: Akshay
-"""
 
 #mfcc creator
 import librosa
