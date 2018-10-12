@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 11 23:01:19 2018
-
-@author: Akshay
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 20 14:16:52 2018
-
-@author: Akshay
-"""
 
 #mfcc creator
 
